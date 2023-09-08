@@ -3,10 +3,10 @@ let b = 8;
 
 console.log(a+b);
 
-let age = 20;
+let fatherage = 20;
 let motherage = 50;
 
-console.log(motherage - age);
+console.log(motherage - fatherage);
 
 let apples = 5;
 let oranges = 8;
