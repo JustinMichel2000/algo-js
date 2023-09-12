@@ -17,7 +17,7 @@ function rand10()
   }
   
   let randomNumber = rand10();
-  console.log(`Random number between 1 and 10: ${randomNumber}`);
+  console.log("Random number between 1 and 10: " + randomNumber);
 
 //   Generate a random number between 1 and 10 
 // and displays it in the console every time we run it
